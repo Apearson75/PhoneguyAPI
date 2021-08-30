@@ -1,4 +1,5 @@
-const app = require('express')();
+const express = require('express');
+const app = express();
 const PORT = process.env.PORT || 5000
 
 app.listen(
@@ -13,3 +14,8 @@ app.get('/test', (req, res) => {
     })
 }
 );
+
+app.use(express.json())
+
+const helloRouter = require('./hello')
+app.use('/hello', helloRouter)
