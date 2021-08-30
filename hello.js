@@ -4,18 +4,14 @@ const { Canvas }  = require('canvas-constructor/skia')
 const canvas = require('canvas')
 
 
-module.exports = router, canvas, Canvas
+module.exports = router
 
 router.get('/', (req, res) => {
-  res.status(200).send({
-     name: 'sup'
-  })
-})
+   res.send({
+       id: '1',
+       name: 'sup',
+       description: 'idk its pretty cool',
+       success: 'True'
+   })
 
-
-router.get('/:id', (req, res) => {
-  res.send({
-     name: req.params.id
-  })
-})
-
+})   
