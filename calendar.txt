@@ -1,0 +1,686 @@
+﻿
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Calendar - Stratford School Academy</title>
+        <meta name="description" content="Stratford School Academy is a mixed, all ability, and non-faith secondary school for students aged 11 - 16. It is based in Forest Gate, London." />
+        <meta name="keywords" content="" />
+        <meta name="robots" content="index,follow" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="google-site-verification" content="AGW8ee2wNlZRtwzRZsYcu1ELn8ExE3M6L6e6XfciOtg" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><meta name="fid" content="0"/>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://d94f795d981dbc48d5c9-ecb078daf01cb72c665aa4dc59efdad7.ssl.cf3.rackcdn.com/fontawesome/5.11/css/all.min.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700&display=swap" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet" type="text/css">
+<link media="screen" href="/css/site_styles_v3.css" rel="stylesheet" type="text/css"/>
+<link media="print" href="/css/print.css" rel="stylesheet"><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head>
+<body class="no_header_image not_home module_event">
+
+<div id="opennav_overlay" class="nav_open_close"></div>
+<div id="burger_nav">
+    <a href="#" id="burger_close" class="nav_open_close"></a>
+    <div class="pad">
+        <div class="scroll mCustomScrollbar">
+            <ul id="burger_nav_list" class="clfx" >
+                
+	<li><a href="/" data-pid="1"><span>Home</span></a></li>
+	<li class="sub"><a href="/74/headteachers-welcome" data-pid="67"><span>About SSA</span></a>
+	<ul>
+
+		<li><a href="/74/headteachers-welcome"><span>Headteacher's Welcome</span></a></li>
+		<li><a href="/75/vision-values"><span>Vision &amp; Values</span></a></li>
+		<li><a href="/80/ofsted"><span>Ofsted</span></a></li>
+		<li class="sub"><a href="/77/latest-results"><span>Latest Results</span></a></li>
+		<li><a href="/81/policies"><span>Policies</span></a></li>
+		<li><a href="/96/send"><span>SEND</span></a></li>
+		<li class="sub"><a href="/78/curriculum-overview"><span>Curriculum Overview</span></a></li>
+		<li><a href="/76/senior-leadership-team"><span>Senior Leadership Team</span></a></li>
+		<li><a href="/274/governors"><span>Governors</span></a></li>
+		<li><a href="/79/the-school-day"><span>The School Day</span></a></li>
+		<li><a href="/82/vacancies"><span>Vacancies</span></a></li>
+	</ul>
+	</li>
+	<li class="sub"><a href="/203/admissions-information" data-pid="68"><span>Admissions</span></a>
+	<ul>
+
+		<li><a href="/203/admissions-information"><span>Admissions Information</span></a></li>
+	</ul>
+	</li>
+	<li class="sub"><a href="/84/assessment-approach-for-awarding-grades-2021" data-pid="69"><span>Students</span></a>
+	<ul>
+
+		<li><a href="/84/assessment-approach-for-awarding-grades-2021"><span>Assessment Approach for Awarding Grades 2021</span></a></li>
+		<li><a href="/85/exams-and-revision"><span>Exams and Revision</span></a></li>
+		<li><a href="/86/expectations"><span>Expectations</span></a></li>
+		<li><a href="/87/uniform-1"><span>Uniform</span></a></li>
+		<li><a href="/88/house-information"><span>House Information</span></a></li>
+		<li><a href="/89/lunch-menu"><span>Lunch Menu</span></a></li>
+		<li><a href="/90/keeping-students-safe"><span>Keeping Students Safe</span></a></li>
+		<li><a href="/91/education-beyond-the-school-day"><span>Education Beyond the School Day</span></a></li>
+		<li><a href="/92/careers-information-advice-and-guidance"><span>Careers Information, Advice and Guidance</span></a></li>
+		<li><a href="/375/mental-health-practitioners"><span>Mental Health Practitioners</span></a></li>
+	</ul>
+	</li>
+	<li class="sub"><a href="/93/letters-to-parents" data-pid="70"><span>Parents</span></a>
+	<ul>
+
+		<li><a href="/93/letters-to-parents"><span>Letters to Parents</span></a></li>
+		<li><a href="/95/families-handbook"><span>Families' Handbook</span></a></li>
+		<li><a href="/97/ofsted-parent-view"><span>Ofsted Parent View</span></a></li>
+		<li><a href="/98/remote-learning-guidance"><span>Remote Learning Guidance</span></a></li>
+		<li><a href="/99/supporting-your-child-with-revision-1"><span>Supporting your child with Revision</span></a></li>
+		<li><a href="/100/supporting-your-child-with-reading-1"><span>Supporting your child with Reading</span></a></li>
+	</ul>
+	</li>
+	<li><a href="/71/key-information" data-pid="71"><span>Key Information</span></a></li>
+	<li class="sel sub"><a href="/102/news-1" data-pid="72"><span>News</span></a>
+	<ul>
+
+		<li><a href="/102/news-1"><span>News</span></a></li>
+		<li><a href="/101/covid-19"><span>Covid-19</span></a></li>
+		<li><a href="/94/term-dates"><span>Term Dates</span></a></li>
+		<li class="sel"><a href="/103/calendar"><span>Calendar</span></a></li>
+		<li><a href="/104/school-gallery"><span>School Gallery</span></a></li>
+		<li><a href="/105/announcements"><span>Announcements</span></a></li>
+	</ul>
+	</li>
+	<li><a href="/73/support-us" data-pid="73"><span>Support Us</span></a></li>
+	<li><a href="/6/contact-us" data-pid="6"><span>Contact Us</span></a></li>            </ul>
+        </div>
+    </div>
+</div><div id="search" class="clfx inner">
+    <div class="container clfx">
+        <form action="/search" id="search_form" method="post" class="search">
+            <a href="#" id="search_go" class="search_go"><i class="fas fa-search fa-lg"></i></a>
+            <input type="text" name="kw" id="kw" class="kw" placeholder="Search site" value="" />
+            <a href="#" id="search_close"><i class="fas fa-times"></i></a>
+        </form>
+    </div>
+</div><div id="header_wrap" class="header_layout_4">
+    <header>
+        <div class="container clfx">
+            <div class="col-sm-9 col-sm-push-3 no_gutters">
+                <div id="header_right" class="clfx">
+                    <div id="header_right_top" class="clfx">
+                        
+<div id="quick_links_wrap" class="header_top_link">
+            <a href="#"><i class="fal fa-link link"></i> <div class="hidden_text_mobile"> Quick Links <i class="fal fa-chevron-down"></i></div></a><div><ul><li><a href="https://outlook.office.com/owa" rel="external" title="Staff Web Mail">Staff Web Mail</a></li>
+<li><a href="https://remote.stratfordschoolacademy.org/RDWeb/webclient/" rel="external" title="Remote Access to Stratford School Academy Network">Remote Access to Stratford School Academy Network</a></li>
+<li><a href="/97/ofsted-parent-view" rel="external" title="Ofsted Parent View">Ofsted Parent View</a></li>
+<li><a href="https://www.parentpay.com/public/client/security/#/login" rel="external" title="ParentPay">ParentPay</a></li>
+<li class="last"><a href="https://www.parentmail.co.uk/" rel="external" title="ParentMail">ParentMail</a></li>
+</ul></div></div>
+
+<div id="google_translate" class="header_top_link"><i class="fal fa-globe globe"></i><span>Translate</span><i class="fal fa-chevron-down"></i></div>
+
+
+
+<a href="#" id="search_open" class="header_top_link"><i class="fal fa-search"></i></a>
+
+
+
+    <a href="https://www.youtube.com" class="header_top_link" title="Youtube" rel="external"><i class="fab fa-youtube"></i></a>
+    <a href="https://www.facebook.com/StratfordSch" class="header_top_link" title="Facebook" rel="external"><i class="fab fa-facebook-f"></i></a>
+    <a href="http://www.twitter.com/StratfordSch" class="header_top_link" title="Twitter" rel="external"><i class="fab fa-twitter"></i></a>
+    <a href="https://instagram.com/stratford_school_academy" class="header_top_link" title="Instagram" rel="external"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/company/stratfordschoolacademy" class="header_top_link" title="LinkedIn" rel="external"><i class="fab fa-linkedin"></i></a>
+<!--<a href="/6/contact" id="contact_link" class="header_top_link" title="Contact Us"><span><span>Contact Us</span></span><i class="fas fa-envelope"></i></a>-->
+<!--<a href="--><!--" class="header_top_link" title="--><!--">--><!--<i class="fas fa---><!--"></i></a>-->                    </div>
+                    <div id="header_right_bot" class="clfx">
+                            <div id="main_nav_wrap">
+        <nav id="main_nav" >
+          <ul class="clfx container" >
+              
+	<li><a href="/" data-pid="1"><span>Home</span></a></li>
+	<li class="sub"><a href="/74/headteachers-welcome" data-pid="67"><span>About SSA</span></a>
+	<ul>
+
+		<li><a href="/74/headteachers-welcome"><span>Headteacher's Welcome</span></a></li>
+		<li><a href="/75/vision-values"><span>Vision &amp; Values</span></a></li>
+		<li><a href="/80/ofsted"><span>Ofsted</span></a></li>
+		<li class="sub"><a href="/77/latest-results"><span>Latest Results</span></a>
+		<ul>
+			<li><a href="/415/ssa-results-2021"><span>SSA Results 2021</span></a></li>
+			<li><a href="/133/ssa-results-2020"><span>SSA Results 2020</span></a></li>
+			<li><a href="/134/ssa-results-2019"><span>SSA Results 2019</span></a></li>
+			<li><a href="/135/ssa-results-2018"><span>SSA Results 2018</span></a></li>
+		</ul>
+		</li>
+		<li><a href="/81/policies"><span>Policies</span></a></li>
+		<li><a href="/96/send"><span>SEND</span></a></li>
+		<li class="sub"><a href="/78/curriculum-overview"><span>Curriculum Overview</span></a>
+		<ul>
+			<li><a href="/429/curriculum-vision-statements"><span>Curriculum Vision Statements</span></a></li>
+			<li><a href="/435/curriculum-maps-knowledge-organizers-and-exemplars"><span>Curriculum Maps, Knowledge Organizers and Exemplars</span></a></li>
+		</ul>
+		</li>
+		<li><a href="/76/senior-leadership-team"><span>Senior Leadership Team</span></a></li>
+		<li><a href="/274/governors"><span>Governors</span></a></li>
+		<li><a href="/79/the-school-day"><span>The School Day</span></a></li>
+		<li><a href="/82/vacancies"><span>Vacancies</span></a></li>
+	</ul>
+	</li>
+	<li class="sub"><a href="/203/admissions-information" data-pid="68"><span>Admissions</span></a>
+	<ul>
+
+		<li><a href="/203/admissions-information"><span>Admissions Information</span></a></li>
+	</ul>
+	</li>
+	<li class="sub"><a href="/84/assessment-approach-for-awarding-grades-2021" data-pid="69"><span>Students</span></a>
+	<ul>
+
+		<li><a href="/84/assessment-approach-for-awarding-grades-2021"><span>Assessment Approach for Awarding Grades 2021</span></a></li>
+		<li><a href="/85/exams-and-revision"><span>Exams and Revision</span></a></li>
+		<li><a href="/86/expectations"><span>Expectations</span></a></li>
+		<li><a href="/87/uniform-1"><span>Uniform</span></a></li>
+		<li><a href="/88/house-information"><span>House Information</span></a></li>
+		<li><a href="/89/lunch-menu"><span>Lunch Menu</span></a></li>
+		<li><a href="/90/keeping-students-safe"><span>Keeping Students Safe</span></a></li>
+		<li><a href="/91/education-beyond-the-school-day"><span>Education Beyond the School Day</span></a></li>
+		<li><a href="/92/careers-information-advice-and-guidance"><span>Careers Information, Advice and Guidance</span></a></li>
+		<li><a href="/375/mental-health-practitioners"><span>Mental Health Practitioners</span></a></li>
+	</ul>
+	</li>
+	<li class="sub"><a href="/93/letters-to-parents" data-pid="70"><span>Parents</span></a>
+	<ul>
+
+		<li><a href="/93/letters-to-parents"><span>Letters to Parents</span></a></li>
+		<li><a href="/95/families-handbook"><span>Families' Handbook</span></a></li>
+		<li><a href="/97/ofsted-parent-view"><span>Ofsted Parent View</span></a></li>
+		<li><a href="/98/remote-learning-guidance"><span>Remote Learning Guidance</span></a></li>
+		<li><a href="/99/supporting-your-child-with-revision-1"><span>Supporting your child with Revision</span></a></li>
+		<li><a href="/100/supporting-your-child-with-reading-1"><span>Supporting your child with Reading</span></a></li>
+	</ul>
+	</li>
+	<li><a href="/71/key-information" data-pid="71"><span>Key Information</span></a></li>
+	<li class="sel sub"><a href="/102/news-1" data-pid="72"><span>News</span></a>
+	<ul>
+
+		<li><a href="/102/news-1"><span>News</span></a></li>
+		<li><a href="/101/covid-19"><span>Covid-19</span></a></li>
+		<li><a href="/94/term-dates"><span>Term Dates</span></a></li>
+		<li class="sel"><a href="/103/calendar"><span>Calendar</span></a></li>
+		<li><a href="/104/school-gallery"><span>School Gallery</span></a></li>
+		<li><a href="/105/announcements"><span>Announcements</span></a></li>
+	</ul>
+	</li>
+	<li><a href="/73/support-us" data-pid="73"><span>Support Us</span></a></li>
+	<li><a href="/6/contact-us" data-pid="6"><span>Contact Us</span></a></li>          </ul>
+            <div class="container nav_open_hide_show_wrap hide">
+                <a class="nav_open nav_open_hide_show" href="#">Menu <span></span><span></span><span></span><span></span></a>
+            </div>
+        </nav>
+
+    </div>
+                            <div class="show_hide_mobile">
+    <a class="nav_open_close" href="#"><span><span></span></span></a>
+</div>                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3 col-sm-pull-9 mobile-logo-col">
+                <a id="header_logo" href="/" title="Stratford School Academy"><img src="/images/logo.svg" alt="Stratford School Academy" /></a>
+            </div>
+        </div>
+    </header>
+</div>
+
+<main  id="module_event" class="module_home">
+
+    
+
+
+
+
+
+        <div id="content" class="clfx inner" data-aos="fade-up">
+            <div class="container">
+
+                                <div id="middlecol" class="hascol_mid">
+                    <section>
+                        <div id="bread_wrap">
+    <div class="container">
+        <ul id="bread" class="clfx" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li id="bread_home" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" itemprop="item"><span itemprop="name"><i class="fal fa-home"></i> Home</span></a><meta itemprop="position" content="1" /></li>
+<li><span>News</span></li>
+<li id="this" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/103/calendar" itemprop="item"><span itemprop="name">Calendar</span></a><meta itemprop="position" content="3" /></li>
+</ul>
+
+        <div id="breadcrumb_socials">
+
+    <div class="social_buttons_title">Share This Page</div>
+
+    <div id="social_icons_0" class="social_buttons"><ul class="core_custom_socials">
+<li class="facebook first">
+                    <a rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://www.stratfordschoolacademy.com/103/calendar" class="social_button_link">
+                        <span class="title">facebook</span>
+                        <i class="fab fa-facebook-f"></i>
+                        <span class="share_count">Share this page on Facebook</span>
+                    </a>
+                    </li>
+<li class="twitter">
+                    <a rel="nofollow" href="https://twitter.com/share?url=https://www.stratfordschoolacademy.com/103/calendar&amp;text=Calendar+-+Stratford+School+Academy..." class="social_button_link">
+                        <span class="title">twitter</span>
+                        <i class="fab fa-twitter"></i>
+                        <span class="share_count">Tweet this page</span>
+                    </a>
+                    </li>
+<li class="pinterest last">
+                    <a rel="nofollow" href="http://pinterest.com/pin/create/button/?url=https://www.stratfordschoolacademy.com/103/calendar&amp;media=&amp;description=Calendar+-+Stratford+School+Academy" class="social_button_link">
+                        <span class="title">pinterest</span>
+                        <i class="fab fa-pinterest"></i>
+                        <span class="share_count">Pin this page</span>
+                    </a>
+                    </li>
+</ul></div><script>$(document).ready(function() {
+		$('body').on('click', '.social_buttons a', function(e){
+		e.preventDefault();url=$(this).attr('href');
+		window.open(url, 'Social','width=550,height=300');
+		});
+});</script>
+    <a href="mailto:?subject=/103/calendar&body=Found%20this%20page%20thought%20maybe%20you%20would%20be%20interested%20-%20/103/calendar" class="contact_link" title="Email this page">
+        <span><span class="share_count">Email this page</span></span>
+        <i class="fas fa-envelope"></i>
+    </a>
+</div>    </div>
+</div>                                                <h1 id="page_heading" >Calendar</h1>
+<div id="main_body">
+</div>
+<div id="event_ajax_load" class="row"><div id="event_right_col" class="col-md-8 col-md-push-4 col-sm-12">
+<div class="event_cat_list_wrapper clfx hide show-sm">
+<label>Category:</label>
+<select id="event_cat_list_basic_xs" name="event_cat_list_basic_xs" class="event_cat_select">
+<option value="0">- View All -</option>
+<option value="7">Term Dates</option>
+<option value="8">Trips and Visits</option>
+<option value="9">Sports Events</option>
+<option value="10">Parents Evening</option>
+<option value="11">Open Day</option>
+<option value="12">Information Evening</option>
+<option value="13">National Days</option>
+<option value="14">School Photographs</option>
+<option value="15">Open Evening</option>
+</select>
+</div>
+<div id="event_view_links" class="clfx">
+<a href="#" class="event_view_list"><span class="title">View All</span> <span class="tickbox fa-stack"><span class="fa-layers fa-fw"><i class="fas fa-square fa-2x"></i><i class="fas fa-check right-6"></i></span></span></a> <a href="#" class="event_view_grid"><span class="title">View By Month</span> <span class="tickbox fa-stack"><i class="fas fa-square fa-2x"></i></span></a></div>
+<h2 class="date_title title_1">September 2021</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #fd89b9;"><span class="date_single"><span class="day">08</span><span class="month">Sep</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2035/international-literacy-day" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2035" data-fancybox data-type="ajax">International Literacy Day</a>
+<p><i class="far fa-folder"></i> National Days</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2035/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_2">October 2021</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #000000;"><span class="date_single"><span class="day">04</span><span class="month">Oct</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2036/open-evening-year-5-6" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2036" data-fancybox data-type="ajax">Open Evening - Year 5 &amp; 6</a>
+<p><i class="far fa-clock"></i> 16:30 - 19:30 | <i class="far fa-folder"></i> Open Evening</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2036/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #7402ef;"><span class="date_span"><span class="date_from"><span class="day">20</span><span class="month">Oct</span></span><span class="date_to"><span class="day">22</span><span class="month">Oct</span></span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2037/year-6-open-morning" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2037" data-fancybox data-type="ajax">Year 6 Open Morning</a>
+<p><i class="far fa-clock"></i> 09:30 - 11:30 | <i class="far fa-folder"></i> Open Day</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2037/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_span"><span class="date_from"><span class="day">25</span><span class="month">Oct</span></span><span class="date_to"><span class="day">29</span><span class="month">Oct</span></span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2017/autumn-half-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2017" data-fancybox data-type="ajax">Autumn Half Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2017/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_3">November 2021</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">19</span><span class="month">Nov</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2029/staff-inset-day-1" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2029" data-fancybox data-type="ajax">Staff Inset Day</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2029/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_4">December 2021</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">17</span><span class="month">Dec</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2018/last-day-of-autumn-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2018" data-fancybox data-type="ajax">Last Day of Autumn Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2018/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_span"><span class="date_from"><span class="day">20</span><span class="month">Dec</span></span><span class="date_to"><span class="day">03</span><span class="month">Jan</span></span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2019/winter-holidays" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2019" data-fancybox data-type="ajax">Winter Holidays</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2019/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_5">January 2022</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">03</span><span class="month">Jan</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2031/bank-holiday-1" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2031" data-fancybox data-type="ajax">Bank Holiday</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2031/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">04</span><span class="month">Jan</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2020/first-day-of-spring-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2020" data-fancybox data-type="ajax">First Day of Spring Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2020/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_6">February 2022</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_span"><span class="date_from"><span class="day">14</span><span class="month">Feb</span></span><span class="date_to"><span class="day">18</span><span class="month">Feb</span></span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2021/spring-half-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2021" data-fancybox data-type="ajax">Spring Half Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2021/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_7">April 2022</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">01</span><span class="month">Apr</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2022/last-day-of-spring-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2022" data-fancybox data-type="ajax">Last Day of Spring Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2022/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_span"><span class="date_from"><span class="day">04</span><span class="month">Apr</span></span><span class="date_to"><span class="day">18</span><span class="month">Apr</span></span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2023/easterspring-holidays" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2023" data-fancybox data-type="ajax">Easter/Spring Holidays</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2023/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">18</span><span class="month">Apr</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2032/bank-holiday-2" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2032" data-fancybox data-type="ajax">Bank Holiday</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2032/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">19</span><span class="month">Apr</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2024/first-day-of-summer-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2024" data-fancybox data-type="ajax">First Day of Summer Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2024/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_8">May 2022</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">02</span><span class="month">May</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2033/bank-holiday-3" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2033" data-fancybox data-type="ajax">Bank Holiday</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2033/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_span"><span class="date_from"><span class="day">31</span><span class="month">May</span></span><span class="date_to"><span class="day">03</span><span class="month">Jun</span></span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2025/summer-half-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2025" data-fancybox data-type="ajax">Summer Half Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2025/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><h2 class="date_title title_9">July 2022</h2>
+<div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">06</span><span class="month">Jul</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2034/staff-inset-day-2" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2034" data-fancybox data-type="ajax">Staff Inset Day</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2034/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_single"><span class="day">22</span><span class="month">Jul</span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2026/last-day-of-summer-term" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2026" data-fancybox data-type="ajax">Last Day of Summer Term</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2026/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div><div class="event_list_item clfx">
+<div class="event_list_date" style="background-color: #5d1f7c;"><span class="date_span"><span class="date_from"><span class="day">25</span><span class="month">Jul</span></span><span class="date_to"><span class="day">05</span><span class="month">Sep</span></span></span></div>
+<div class="event_list_details">
+<a href="/103/calendar/event/2027/summer-holidays" data-src="/inc/modules/event/ajax/ajax.php?act=detail&amp;eid=2027" data-fancybox data-type="ajax">Summer Holidays</a>
+<p><i class="far fa-folder"></i> Term Dates</p>
+</div>
+<div class="event_list_share">
+<a href="/calendar/2027/" title="Add to calendar"><i class="far fa-calendar-alt fa-fw fa-lg"></i><span>Add to calendar</span></a>
+</div>
+</div></div>
+<div id="event_left_col" class="col-md-4 col-md-pull-8 col-sm-12">
+<div class="event_cat_list_wrapper clfx">
+<label>Category:</label>
+<select id="event_cat_list_basic" name="event_cat_list_basic" class="event_cat_select">
+<option value="0">- View All -</option>
+<option value="7">Term Dates</option>
+<option value="8">Trips and Visits</option>
+<option value="9">Sports Events</option>
+<option value="10">Parents Evening</option>
+<option value="11">Open Day</option>
+<option value="12">Information Evening</option>
+<option value="13">National Days</option>
+<option value="14">School Photographs</option>
+<option value="15">Open Evening</option>
+</select>
+</div>
+<div id="event_calendar_wrapper">
+<div class="clfx"><!-- clear --></div>
+<input type="hidden" id="current_month" value="september" />
+<input type="hidden" id="current_year" value="2021" />
+<input type="hidden" id="ecid" value="" />
+</div>
+<div id="subscribe_full_calendar" class="clfx"><a href="webcal://www.stratfordschoolacademy.com/calendar/events.ics"><i class="far fa-calendar-alt fa-fw"></i> <span>Subscribe to full calendar</span></a>
+</div>
+<ul id="category_key" class="clfx"><li><span class="no_cat"><!-- COLOUR --></span>No Category Set</li><li><span style="background-color: #5d1f7c;"><!-- COLOUR --></span>Term Dates</li><li><span style="background-color: #a851e2;"><!-- COLOUR --></span>Trips and Visits</li><li><span style="background-color: #747074;"><!-- COLOUR --></span>Sports Events</li><li><span style="background-color: #adadad;"><!-- COLOUR --></span>Parents Evening</li><li><span style="background-color: #7402ef;"><!-- COLOUR --></span>Open Day</li><li><span style="background-color: #40c2ee;"><!-- COLOUR --></span>Information Evening</li><li><span style="background-color: #fd89b9;"><!-- COLOUR --></span>National Days</li><li><span style="background-color: #aed66b;"><!-- COLOUR --></span>School Photographs</li><li><span style="background-color: #000000;"><!-- COLOUR --></span>Open Evening</li></ul></div>
+<script>
+        $(function() {
+            events_js.event_module_adv();
+        });
+        </script></div>
+<script>
+    var div_hint = '' +
+        '<div class="ical-hint clfx" style="display: none; border: 2px solid #ececec; border-top: none; background: #fcfcfc; padding: 15px; width: 100%; max-width: 100%; clear: both; font-size: 14px; line-height: 18px">' +
+        '<p style="float:right; text-align: center;font-weight: bold;text-decoration: none;"><a href="" class="ical-hint-close" style="display: block;border:1px solid #ececec;width: 20px;height: 20px;background-color: #ececec;overflow: hidden;font-size: 12px;line-height: 20px;">X</a></p><strong class="ical-hint-title" style="margin-bottom: 10px;display: block;"></strong>' +
+        '<p style="margin: 0 0 10px;font-size: 12px;">Please find below instructions on how to configure some of the most popular calendar programmes to automatically display dates from our calendar using the address below:</p>' +
+        '<p style="margin: 0 0 10px;font-size: 12px;">' +
+        '<span class="ical-hint-feed" style="word-break: break-all;font-size: 12px;"><span></span></span></p><p style="font-size: 12px;">Copy the URL above and click the device type below for further instructions:</p>' +
+        '<ul style="margin: 0 0 10px;padding: 0 0 0 20px;">' +
+        '<li style="list-style: outside disc;font-size: 12px;" class="ical-hint-outlook-link"><a href="https://support.office.com/en-us/article/Import-or-subscribe-to-a-calendar-in-Outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c" rel="external">Outlook</a></li>' +
+        '<li style="list-style: outside disc;font-size: 12px;" class="ical-hint-iphone-link"><a href="" rel="external">iPhone</a></li>' +
+        '<li style="list-style: outside disc;font-size: 12px;" class="ical-hint-android-link"><a href="https://support.google.com/calendar/answer/37100?hl=en" rel="external">Gmail / Android</a></li>' +
+        '</ul>' +
+        '</div>';
+
+    function div_hint_init()
+    {
+        if ($('#subscribe_full_calendar a').length > 0 && $('.ical-hint').length == 0) {
+            $(div_hint).insertAfter('#subscribe_full_calendar');
+            $('#subscribe_full_calendar > a').click(function (e) {
+                e.preventDefault();
+                $('.ical-hint').stop();
+                $('.ical-hint-title').text($(this).text());
+                $('.ical-hint-feed').text($(this).attr("href"));
+                $('.ical-hint-iphone-link a').attr("href",$(this).attr("href"));
+                if ($('.ical-hint').hasClass('open')) $('.ical-hint').css('opacity', '0.3').animate({opacity: 1}, 300);
+                $('.ical-hint').addClass("open").slideDown("slow");
+            });
+            $('a.ical-hint-close').click(function (e) {
+                e.preventDefault();
+                $('.ical-hint').slideUp("slow").removeClass("open");
+            });
+        }
+    }
+
+    div_hint_init();
+    $('#event_ajax_load').bind("DOMSubtreeModified", div_hint_init);
+
+</script>
+                    </section>
+                </div>
+
+                
+            </div>
+        </div>
+    </main>
+
+
+
+<div id="pre_footer" class="pre_footer_layout_1">
+
+    <div class="container clfx">
+        <div class="row">
+
+            <div class="col-sm-5">
+
+                
+			<div  id="footer_contacts_wrap" class=" clfx">
+
+                    
+                    <p class="headteacher"><i class="fas fa-user"></i><span>Headteacher</span> Craig Hewitt</p>
+                    
+                    <p class="site_name"><strong>Grosvenor Road Site</strong> </p>
+                    <address>Grosvenor Road, Forest Gate, London, E7 8JA</address>
+                    <ul id="footer_contacts" class="clfx">
+                    <li class="phone"><a href="tel:02084712415" title="Call us on 0208 471 2415"><i class="fal fa-fw fa-phone footer-contact-icon" data-fa-transform="shrink-9" data-fa-mask="fas fa-circle"></i>0208 471 2415</a></li>
+                    
+                    <li class="email"><a href="mailto:stratford@stratfordschoolacademy.org" title="Contact stratford@stratfordschoolacademy.org"><i class="fal fa-fw fa-envelope footer-contact-icon" data-fa-transform="shrink-9" data-fa-mask="fas fa-circle"></i>stratford@stratfordschoolacademy.org</a></li>
+                    <li class="email"><a href="https://goo.gl/maps/EZte1JknooTpHhXe9"  rel="external" title="https://goo.gl/maps/EZte1JknooTpHhXe9"><i class="fal fa-fw fa-map-marker footer-contact-icon" data-fa-transform="shrink-9" data-fa-mask="fas fa-circle"></i>Get Directions</a></li>
+                    </ul></div>
+            </div>
+
+            <div class="col-sm-5">
+                <div class="footer_contacts_wrap">
+                    
+			<div  id="footer_contacts_wrap" class=" clfx">
+
+                    
+                    
+                    
+                    <p class="site_name"><strong>Upton Lane Site</strong> </p>
+                    <address>Upton Lane, Forest Gate, London, E7 9PR</address>
+                    <ul id="footer_contacts" class="clfx">
+                    <li class="phone"><a href="tel:02038232030" title="Call us on 0203 823 2030"><i class="fal fa-fw fa-phone footer-contact-icon" data-fa-transform="shrink-9" data-fa-mask="fas fa-circle"></i>0203 823 2030</a></li>
+                    
+                    <li class="email"><a href="mailto:stratford@stratfordschoolacademy.org" title="Contact stratford@stratfordschoolacademy.org"><i class="fal fa-fw fa-envelope footer-contact-icon" data-fa-transform="shrink-9" data-fa-mask="fas fa-circle"></i>stratford@stratfordschoolacademy.org</a></li>
+                    <li class="email"><a href="https://goo.gl/maps/dWsG8YKkDoHsLVGP8"  rel="external" title="https://goo.gl/maps/dWsG8YKkDoHsLVGP8"><i class="fal fa-fw fa-map-marker footer-contact-icon" data-fa-transform="shrink-9" data-fa-mask="fas fa-circle"></i>Get Directions</a></li>
+                    </ul></div>
+                </div>
+            </div>
+
+        </div>
+	</div>
+</div>
+
+<footer id="website_footer" class="clfx">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9">
+                                    <div class="registered_footer"><p>&copy;2021 Stratford School Academy</p></div>
+                                <nav id="footer_nav">
+<ul>
+	<li class="first"><a href="/2/sitemap">Sitemap</a>
+	<li><a href="/3/terms-of-use">Terms of Use</a>
+	<li><a href="/4/privacy-policy">Privacy Policy</a>
+	<li class="last"><a href="/5/cookie-usage">Cookie Usage</a><li id="highvis"><a href="http://www.stratfordschoolacademy.com/103/calendar?highvis" rel="nofollow">High Visibility Version</a></li>
+</ul></nav>
+            </div>
+           <div class="col-sm-3">
+                <a href="http://www.cleverbox.co.uk/18/school-website-design" id="cleverbox_link" rel="external"><span>School Website Design By Cleverbox</span></a>
+            </div>
+        </div>
+        </div>
+</footer>
+<script src="/js/site_plugins.js"></script>
+<script src="/js/site_script_v3.js"></script>
+<script>
+$(function() {
+		quicklink_js.quicklinks('quick_links');
+		
+    $(function(){
+        site_js.top_nav_dropdown();
+    });
+    /*$(window).on('load resize', function () {
+        site_js.top_nav_overflow();
+    });*/
+    $(window).on('load resize', function () {
+        site_js.top_nav_dropdown();
+    });
+    
+});
+</script>
+<script src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit' async></script>
+<script> $(window).load(function() { try { new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.Horizontal}, 'google_translate'); $('#google_translate').css('display', 'inline-block'); } catch (err) { $('#google_translate').css('display', 'none'); }})</script>
+<div id="cb_cookie_policy_popup_shroud" class="seen"></div><div id="cb_cookie_policy_default">
+    <div id="cb_cookie_policy_popup" class="seen">
+        <div class="cb_cookie_policy_popup">
+            <div class="cb_cookie_policy_popup_text">
+                <div class="cb_cookie_policy_popup_icon" title="Cookie Settings"><span style="">*</span></div>
+                <strong>Cookie Policy:</strong> We use cookies on this site to improve your user experience. <br/><a href="/5/cookie-usage" class="cb_cookie_button" title="Read more about our cookie policy">More Information</a>
+            </div>
+
+            <div class="cb_cookie_policy_popup_options" id="cb_cookie_landing">
+                <a class="cb_cookie_button" id="_cb_accept" href="#">Allow All Cookies</a><br/>
+                <a class="cb_cookie_button" id="_cb_preferences" href="#">Manage Preferences</a>
+            </div>
+            <div class="cb_cookie_policy_popup_options" id="cb_cookie_preferences">
+                <span>
+                    <input id="_cb_accept_thirdparty" type="radio" name="thirdparty" value="denied">
+                    <label for="_cb_accept_thirdparty">Deny Cookies</label>
+                </span>
+                <span>
+                    <input id="_cb_accept_all" type="radio" name="thirdparty" value="accepted">
+                    <label for="_cb_accept_all">Allow All Cookies</label>
+                </span>
+                <br/>                <a class="cb_cookie_button" id="_cb_accept_pref" href="#">Submit & Close</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<link href="/include_v3/cookie_popup/cookie_popup_2021.css" rel="stylesheet" type="text/css">
+<script src="/include_v3/cookie_popup/cookie_popup_2021.js"></script>
+</body>
+</html>

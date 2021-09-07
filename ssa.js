@@ -11,7 +11,7 @@ router.get('/', (req,res) => {
 })
 
 router.get('/calendar', (req,res) => {
-    fetch('calendar.html')
+    fetch('calendar.txt')
     .then(response => response.text())
     .then(data => {
         // Do something with your data
