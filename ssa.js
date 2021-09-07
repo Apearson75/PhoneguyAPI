@@ -5,7 +5,8 @@ module.exports = router
 
 router.get('/', (req,res) => {
    res.send({
-       working: 'true'
+      name: 'SSA',
+      working: 'true'
    })
 })
 

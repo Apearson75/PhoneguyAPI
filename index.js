@@ -19,3 +19,6 @@ app.use(express.json())
 
 const helloRouter = require('./hello')
 app.use('/hello', helloRouter)
+
+const ssaRouter = require('./ssa')
+app.use('/ssa', ssaRouter)
