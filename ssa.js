@@ -11,16 +11,11 @@ router.get('/', (req,res) => {
 })
 
 router.get('/calendar', (req,res) => {
-    function download(link) {
-        var element = document.createElement('a');
-        element.setAttribute('href', link);
-      
-        element.style.display = 'none';
-        document.body.appendChild(element);
-      
-        element.click();
-      
-        document.body.removeChild(element);
-      }
+    fetch('calendar.html')
+    .then(response => response.text())
+    .then(data => {
+        // Do something with your data
+        console.log(data);
+    });
 })
 
