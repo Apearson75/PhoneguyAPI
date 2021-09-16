@@ -30,7 +30,7 @@ router.get('/site', (req,res) => {
     }); 
 })
 
-router.get('/onedrive', (req,res) => {
+router.get('/sharepoint', (req,res) => {
     res.send({
         url: 'https://stratfordsa-my.sharepoint.com/'
     })
