@@ -36,3 +36,9 @@ router.get('/sharepoint', (req,res) => {
     })
 })
 
+router.get('/remote', (req,res) => {
+    res.send({
+        url: 'https://remote.stratfordschoolacademy.org/RDWeb/webclient/'
+    })
+})
+
