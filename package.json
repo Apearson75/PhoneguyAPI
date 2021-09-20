@@ -19,6 +19,7 @@
     "express": "^4.17.1",
     "node-fetch": "^3.0.0",
     "request": "^2.88.2",
-    "skia-canvas": "^0.9.25"
+    "skia-canvas": "^0.9.25",
+    "twit": "^2.2.11"
   }
 }
